@@ -15,5 +15,5 @@ function calculate() {
   const area = (lengthB + lengthA) / 2 * height
 
   // output
-  document.getElementById('area').innerHTML = '<p>The area is: ' + area + ' cm².</p>'
+  document.getElementById('area').innerHTML = '<p>The area is: ' + area.toFixed(2) + ' cm².</p>'
 }
