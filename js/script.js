@@ -3,7 +3,9 @@
 // This file contains the JS functions for index.html
 
 'use strict'
-/*** This function calculates area and perimeter of trapezoid.***/
+/**
+* This function calculates area and perimeter of trapezoid.
+*/
 function calculate() {
   
   // input
